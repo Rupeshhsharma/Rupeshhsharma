@@ -85,9 +85,16 @@
 
 ---
 
+## 🌐 Open Source Contributions
 
+<div align="center">
+  <a href="https://github.com/numpy/numpy/pull/30300" target="_blank">
+    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" align="center" alt="Numpy">
+  </a>
+  
+</div>
 
-
+---
 
 ### 📫 Connect With Me
 <div>
@@ -102,7 +109,7 @@
 
 ---
 
-⭐ **Thanks for visiting!**  
-Feel free to explore my repositories and drop a ⭐ if you like something!
+ **Thanks for visiting!**  
+Feel free to explore my repositories and drop a ✭ if you like something!
 
 
