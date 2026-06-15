@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rupesh Sharma</h1>
+<h1 align="center">Hi, I'm Rupesh Sharma</h1>
 <h3 align="center">Data Science and AI Engineer | Open Source Contributor | Problem Solver</h3>
 
 ---
 
-⭐ Open to internships and freelancing opportunities in Data Science and Machine Learning. <br><br>
+Open to internships and freelancing opportunities in Data Science and Machine Learning. <br><br>
 **The future is independent of the past given the present** - Markov Chains<br><br>
 
 
@@ -21,7 +21,7 @@
 
 ### 🛠️ Tech Stack
 <div align = 'center'>
-  <h3 align="center">🧑🏻‍💻 Programming Language </h3>
+  <h3 align="center"> Programming Language </h3>
   
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" align="center" alt="Python">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" align="center" alt="C++">
@@ -42,7 +42,7 @@
 <br>
 
 <div align = 'center'>
-  <h3 align="center">🧹 Data Analysis </h3>
+  <h3 align="center"> Data Analysis </h3>
   
   
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" align="center" alt="Pandas">
@@ -69,7 +69,7 @@
   <br>
 
 <div align = 'center'>
-  <h3 align="center"> 💾 Backend </h3>
+  <h3 align="center"> Backend </h3>
   
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="Flask">
   <img src="" align="center" alt="">
@@ -79,7 +79,7 @@
   
 <br>
 <div align = 'center'>
-  <h3 align="center"> 🫙 Database </h3>
+  <h3 align="center">  Database </h3>
   
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="MySQL">
   <img src="" align="center" alt="">
@@ -104,7 +104,7 @@
 
 ### 📫 Connect With Me
 <div>
-    <a href="mailto:rupeshsharma2557@gmail.com" target="_blank">
+    <a href="mailto:rupeshsharma2556@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
