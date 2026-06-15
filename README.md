@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rupesh Sharma</h1>
-<h3 align="center">Data Science and Machine Learning Enthusiast | Open Source Contributor | Problem Solver</h3>
+<h3 align="center">Data Science and AI Engineer | Open Source Contributor | Problem Solver</h3>
 
 ---
 
 ⭐ Open to internships and freelancing opportunities in Data Science and Machine Learning. <br><br>
-🤩 🧠 Exploring the **Hidden Equations Behind Smart Machines**<br><br>
+**The future is independent of the past given the present**<br><br>
 
 
 ---
