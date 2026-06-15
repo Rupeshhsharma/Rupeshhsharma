@@ -4,7 +4,7 @@
 ---
 
 ⭐ Open to internships and freelancing opportunities in Data Science and Machine Learning. <br><br>
-**The future is independent of the past given the present**<br><br>
+**The future is independent of the past given the present** - Markov Chains<br><br>
 
 
 ---
