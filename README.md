@@ -11,9 +11,6 @@ Open to internships and freelancing opportunities in Data Science and Machine Le
 
 
 
-<p align="center">
-  <img src="github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 
 
