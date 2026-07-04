@@ -11,8 +11,6 @@ Open to internships and freelancing opportunities in Data Science and Machine Le
 
 
 
-
-
 ### 🛠️ Tech Stack
 <div align = 'center'>
   <h3 align="center"> Programming Language </h3>
