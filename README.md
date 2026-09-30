@@ -63,7 +63,7 @@ Open to internships and freelancing opportunities in Data Science and Machine Le
 <div align = 'center'>
   <h3 align="center"> Backend </h3>
   
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="Flask">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" align="center" alt="Django">
   <img src="" align="center" alt="">
   
 
@@ -87,9 +87,11 @@ Open to internships and freelancing opportunities in Data Science and Machine Le
 
 <div align="center">
   <a href="https://github.com/numpy/numpy/pull/30300" target="_blank">
-    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" align="center" alt="Numpy">
+    <img src="https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   </a>
-  
+  <a href="https://github.com/napari/napari/pull/9148" target="_blank">
+    <img src="https://img.shields.io/badge/napari-1E90FF?style=for-the-badge" alt="napari">
+  </a>
 </div>
 
 ---
